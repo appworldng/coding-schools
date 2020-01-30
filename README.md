@@ -12,4 +12,5 @@ A list of online coding schools.
   <li><a target="_blank" href="https://www.codewars.com">CodeWars.com</a></li>
   <li><a target="_blank" href="https://www.qualified.io">Qualified.io</a></li>
   <li><a target="_blank" href="https://www.projecteuler.net">ProjectEuler.net</a></li>
+  <li><a target="_blank" href="https://codingcompetitions.withgoogle.com/codejam">Google CodeJam</a></li>
 </ul>

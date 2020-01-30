@@ -10,4 +10,6 @@ A list of online coding schools.
   <li><a target="_blank" href="https://www.topcoder.com">TopCoder.com</a></li>
   <li><a target="_blank" href="https://www.testdome.com">TestDome.com</a></li>
   <li><a target="_blank" href="https://www.codewars.com">CodeWars.com</a></li>
+  <li><a target="_blank" href="https://www.qualified.io">Qualified.io</a></li>
+  <li><a target="_blank" href="https://www.projecteuler.net">ProjectEuler.net</a></li>
 </ul>
